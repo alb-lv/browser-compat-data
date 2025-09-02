@@ -1,5 +1,24 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.1.2](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.2)
+
+September 2, 2025
+
+### Additions
+
+- `browsers.chrome_android.releases.143` ([#27731](https://github.com/mdn/browser-compat-data/pull/27731))
+- `browsers.chrome.releases.143` ([#27731](https://github.com/mdn/browser-compat-data/pull/27731))
+- `browsers.webview_android.releases.143` ([#27731](https://github.com/mdn/browser-compat-data/pull/27731))
+- `webextensions.api.browserSettings.verticalTabs` ([#27657](https://github.com/mdn/browser-compat-data/pull/27657))
+- `webextensions.api.tabs.onUpdated.filter.cookieStoreId` ([#27643](https://github.com/mdn/browser-compat-data/pull/27643))
+
+### Statistics
+
+- 4 contributors have changed 15 files with 85 additions and 21 deletions in 9 commits ([`v7.1.1...v7.1.2`](https://github.com/mdn/browser-compat-data/compare/v7.1.1...v7.1.2))
+- 17,801 total features
+- 1,192 total contributors
+- 5,379 total stargazers
+
 ## [v7.1.1](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.1)
 
 August 29, 2025
